@@ -1,0 +1,10 @@
+#ifndef PERFORMANCE_EVALUATION_HH
+#define PERFORMANCE_EVALUATION_HH
+
+//void performance_evaluator_2(std::vector<scenario_node> &set_scenarios, std::vector<performances> performances_1, std::vector<performances> &performances_2, std::vector<performances> &performances_3, std::vector<product> &set_products, equipment set_equipment[], miscellaneous *misc_data, std::vector<std::vector<configuration>> &set_configurations, std::vector<configuration> configurations_new_1, std::vector<configuration> configurations_new_2, std::vector<configuration> configurations_new_3);
+//void performance_evaluator_2(std::vector<scenario_node> &set_scenarios, std::vector<performances> &performances_1, std::vector<performances> &performances_2, std::vector<performances> &performances_3, std::vector<product> &set_products, equipment set_equipment[], miscellaneous *misc_data, std::vector<std::vector<configuration>> &set_configurations, std::vector<configuration> configurations_new_1, std::vector<configuration> configurations_new_2, std::vector<configuration> configurations_new_3);
+void performance_evaluator_2(std::vector<scenario_node> &set_scenarios, std::vector<performances> &performances_1, std::vector<performances> &performances_2, std::vector<performances> &performances_3, std::vector<product> &set_products, equipment set_equipment[], miscellaneous *misc_data, std::vector<std::vector<configuration>> &set_configurations, std::vector<configuration> &configurations_new_1, std::vector<configuration> &configurations_new_2, std::vector<configuration> &configurations_new_3);
+
+void performance_evaluator_3(std::vector<scenario_node> &set_scenarios, std::vector<performances> &performances_1, std::vector<performances> &performances_2, std::vector<performances> &performances_3, std::vector<product> &set_products, equipment set_equipment[], miscellaneous *misc_data, std::vector<std::vector<configuration>> &set_configurations, std::vector<configuration> &configurations_new_1, std::vector<configuration> &configurations_new_2, std::vector<configuration> &configurations_new_3);
+
+#endif
