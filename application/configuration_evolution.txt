@@ -1,0 +1,29 @@
+The first time bucket line layout.
+ Control unit coordinates: X = 300 Y = 300
+Input station coordinates: X = 275 Y = 2560
+Output station coordinates: X = 2250 Y = 2250
+Handling robot coordinates: X = 1250 Y = 1450
+FAG 1, type 5, coordinates: X = 950 Y = 350
+FAG 2, type 6, coordinates: X = 1650 Y = 350
+FAG 3, type 7, coordinates: X = 900 Y = 2550
+FAG 4, type 8, coordinates: X = 1600 Y = 2550
+
+The second time bucket line layout.
+ Control unit coordinates: X = 300 Y = 300
+Input station coordinates: X = 275 Y = 2560
+Output station coordinates: X = 2250 Y = 2250
+Handling robot coordinates: X = 1250 Y = 1450
+FAG 1, type 5, coordinates: X = 950 Y = 350
+FAG 2, type 6, coordinates: X = 1650 Y = 350
+FAG 3, type 7, coordinates: X = 900 Y = 2550
+FAG 4, type 8, coordinates: X = 1600 Y = 2550
+
+The third time bucket line layout.
+ Control unit coordinates: X = 300 Y = 300
+Input station coordinates: X = 275 Y = 2560
+Output station coordinates: X = 2250 Y = 2250
+Handling robot coordinates: X = 1250 Y = 1450
+FAG 1, type 5, coordinates: X = 950 Y = 350
+FAG 2, type 6, coordinates: X = 1650 Y = 350
+FAG 3, type 7, coordinates: X = 900 Y = 2550
+FAG 4, type 8, coordinates: X = 1600 Y = 2550
